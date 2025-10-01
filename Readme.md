@@ -24,7 +24,7 @@
 
 - Press Ctrl + Shift + P → search for Python: Create Environment.
 - Select your installed Python interpreter.
-- Choose venv as the environment type.
+- Select Create Virtual Environment, then Choose venv as the environment type.
 
 ## 4️⃣ Activate the Virtual Environment
 
@@ -45,3 +45,4 @@ pip install tensorflow matplotlib
 ```
 python <filename>.py
 ```
+
